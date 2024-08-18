@@ -109,8 +109,17 @@ services:
       - "9083:9083"
 
   hive-metastore-postgresql:
-    image: bde2020/hive-metastore-postgresql:2.3.0
+    image: menorah84/hive-metastore-postgresql:3.1.0
     container_name: hive-metastore-postgresql
+    volumes:
+      - ./metastore-postgresql/postgresql/data:/var/lib/postgresql/data
+    depends_on:
+      - datanode
+    environment:
+      - POSTGRES_PASSWORD=hellopass
+    ports:
+      - "5432:5432"
+
 
   presto-coordinator:
     image: shawnzhu/prestodb:0.181

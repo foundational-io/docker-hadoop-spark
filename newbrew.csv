@@ -1,0 +1,559 @@
+,name,city,state,id,opened_at_day,opened_at_month,opened_at_year
+0,NorthGate Brewing ,Minneapolis, MN,0,1,2,2023
+1,Against the Grain Brewery,Louisville, KY,1,1,2,2023
+2,Jack's Abby Craft Lagers,Framingham, MA,2,1,2,2023
+3,Mike Hess Brewing Company,San Diego, CA,3,1,2,2023
+4,Fort Point Beer Company,San Francisco, CA,4,1,2,2023
+5,COAST Brewing Company,Charleston, SC,5,1,2,2023
+6,Great Divide Brewing Company,Denver, CO,6,1,2,2023
+7,Tapistry Brewing,Bridgman, MI,7,1,2,2023
+8,Big Lake Brewing,Holland, MI,8,1,2,2023
+9,The Mitten Brewing Company,Grand Rapids, MI,9,1,2,2023
+10,Brewery Vivant,Grand Rapids, MI,10,1,2,2023
+11,Petoskey Brewing,Petoskey, MI,11,1,2,2023
+12,Blackrocks Brewery,Marquette, MI,12,1,2,2023
+13,Perrin Brewing Company,Comstock Park, MI,13,1,2,2023
+14,Witch's Hat Brewing Company,South Lyon, MI,14,1,2,2023
+15,Founders Brewing Company,Grand Rapids, MI,15,1,2,2023
+16,Flat 12 Bierwerks,Indianapolis, IN,16,1,2,2023
+17,Tin Man Brewing Company,Evansville, IN,17,1,2,2023
+18,Black Acre Brewing Co.,Indianapolis, IN,18,1,2,2023
+19,Brew Link Brewing,Plainfield, IN,19,1,2,2023
+20,Bare Hands Brewery,Granger, IN,20,1,2,2023
+21,Three Pints Brewing,Martinsville, IN,21,1,2,2023
+22,Four Fathers Brewing ,Valparaiso, IN,22,1,2,2023
+23,Indiana City Brewing,Indianapolis, IN,23,1,2,2023
+24,Burn 'Em Brewing,Michigan City, IN,24,1,2,2023
+25,Sun King Brewing Company,Indianapolis, IN,25,1,2,2023
+26,Evil Czech Brewery,Mishawaka, IN,26,1,2,2023
+27,450 North Brewing Company,Columbus, IN,27,1,2,2023
+28,Taxman Brewing Company,Bargersville, IN,28,1,2,2023
+29,Cedar Creek Brewery,Seven Points, TX,29,1,2,2023
+30,SanTan Brewing Company,Chandler, AZ,30,1,2,2023
+31,Boulevard Brewing Company,Kansas City, MO,31,1,2,2023
+32,James Page Brewing Company,Stevens Point, WI,32,1,2,2023
+33,The Dudes' Brewing Company,Torrance, CA,33,1,2,2023
+34,Ballast Point Brewing Company,San Diego, CA,34,1,2,2023
+35,Anchor Brewing Company,San Francisco, CA,35,1,2,2023
+36,Figueroa Mountain Brewing Company,Buellton, CA,36,1,2,2023
+37,Avery Brewing Company,Boulder, CO,37,1,2,2023
+38,Twisted X Brewing Company,Dripping Springs, TX,38,1,2,2023
+39,Gonzo's BiggDogg Brewing,Kalamazoo, MI,39,1,2,2023
+40,Big Muddy Brewing,Murphysboro, IL,40,1,2,2023
+41,Lost Nation Brewing,East Fairfield, VT,41,1,2,2023
+42,Rising Tide Brewing Company,Portland, ME,42,1,2,2023
+43,Rivertowne Brewing Company,Export, PA,43,1,2,2023
+44,Revolution Brewing Company,Chicago, IL,44,1,2,2023
+45,Tallgrass Brewing Company,Manhattan, KS,45,1,2,2023
+46,Sixpoint Craft Ales,Brooklyn, NY,46,1,2,2023
+47,White Birch Brewing,Hooksett, NH,47,1,2,2023
+48,Firestone Walker Brewing Company,Paso Robles, CA,48,1,2,2023
+49,SweetWater Brewing Company,Atlanta, GA,49,1,2,2023
+50,Flying Mouse Brewery,Troutville, VA,50,1,2,2023
+51,Upslope Brewing Company,Boulder, CO,51,1,2,2023
+52,Pipeworks Brewing Company,Chicago, IL,52,1,2,2023
+53,Bent Brewstillery,Roseville, MN,53,1,2,2023
+54,Flesk Brewing Company,Lombard, IL,54,1,2,2023
+55,Pollyanna Brewing Company,Lemont, IL,55,1,2,2023
+56,BuckleDown Brewing,Lyons, IL,56,1,2,2023
+57,Destihl Brewery,Bloomington, IL,57,1,2,2023
+58,Summit Brewing Company,St. Paul, MN,58,1,2,2023
+59,Latitude 42 Brewing Company,Portage, MI,59,1,2,2023
+60,4 Hands Brewing Company,Saint Louis, MO,60,1,2,2023
+61,Surly Brewing Company,Brooklyn Center, MN,61,1,2,2023
+62,Against The Grain Brewery,Louisville, KY,62,1,2,2023
+63,Crazy Mountain Brewing Company,Edwards, CO,63,1,2,2023
+64,SlapShot Brewing Company,Chicago, IL,64,1,2,2023
+65,Mikerphone Brewing,Chicago, IL,65,1,2,2023
+66,Freetail Brewing Company,San Antonio, TX,66,1,2,2023
+67,3 Daughters Brewing,St Petersburg, FL,67,1,2,2023
+68,Red Shedman Farm Brewery and Hop...,Mt. Airy, MD,68,1,2,2023
+69,Appalachian Mountain Brewery,Boone, NC,69,1,2,2023
+70,Birdsong Brewing Company,Charlotte, NC,70,1,2,2023
+71,Union Craft Brewing,Baltimore, MD,71,1,2,2023
+72,Atwater Brewery,Detroit, MI,72,1,2,2023
+73,Ale Asylum,Madison, WI,73,1,2,2023
+74,Two Brothers Brewing Company,Warrenville, IL,74,1,2,2023
+75,Bent Paddle Brewing Company,Duluth, MN,75,1,2,2023
+76,Bell's Brewery,Kalamazoo, MI,76,1,2,2023
+77,Blue Owl Brewing,Austin, TX,77,1,2,2023
+78,Speakasy Ales & Lagers,San Francisco, CA,78,1,2,2023
+79,Black Tooth Brewing Company,Sheridan, WY,79,1,2,2023
+80,Hopworks Urban Brewery,Portland, OR,80,1,2,2023
+81,Epic Brewing,Denver, CO,81,1,2,2023
+82,New Belgium Brewing Company,Fort Collins, CO,82,1,2,2023
+83,Sierra Nevada Brewing Company,Chico, CA,83,1,2,2023
+84,Keweenaw Brewing Company,Houghton, MI,84,1,2,2023
+85,Brewery Terra Firma,Traverse City, MI,85,1,2,2023
+86,Grey Sail Brewing Company,Westerly, RI,86,1,2,2023
+87,Kirkwood Station Brewing Company,Kirkwood, MO,87,1,2,2023
+88,Goose Island Brewing Company,Chicago, IL,88,1,2,2023
+89,Broad Brook Brewing LLC,East Windsor, CT,89,1,2,2023
+90,The Lion Brewery,Wilkes-Barre, PA,90,1,2,2023
+91,Madtree Brewing Company,Cincinnati, OH,91,1,2,2023
+92,Jackie O's Pub & Brewery,Athens, OH,92,1,2,2023
+93,Rhinegeist Brewery,Cincinnati, OH,93,1,2,2023
+94,Warped Wing Brewing Company,Dayton, OH,94,1,2,2023
+95,Blackrocks Brewery,Marquette, MA,95,1,2,2023
+96,Catawba Valley Brewing Company,Morganton, NC,96,1,2,2023
+97,Tröegs Brewing Company,Hershey, PA,97,1,2,2023
+98,Mission Brewery,San Diego, CA,98,1,2,2023
+99,Christian Moerlein Brewing Company,Cincinnati, OH,99,1,2,2023
+100,West Sixth Brewing,Lexington, KY,100,1,2,2023
+101,Coastal Extreme Brewing Company,Newport, RI,101,1,2,2023
+102,King Street Brewing Company,Anchorage, AK,102,1,2,2023
+103,Beer Works Brewery,Lowell, MA,103,1,2,2023
+104,Lone Tree Brewing Company,Lone Tree, CO,104,1,2,2023
+105,Four String Brewing Company,Columbus, OH,105,1,2,2023
+106,Glabrous Brewing Company,Pineland, ME,106,1,2,2023
+107,Bonfire Brewing Company,Eagle, CO,107,1,2,2023
+108,Thomas Hooker Brewing Company,Bloomfield, CT,108,1,2,2023
+109,"Woodstock Inn, Station & Brewery",North Woodstock, NH,109,1,2,2023
+110,Renegade Brewing Company,Denver, CO,110,1,2,2023
+111,Mother Earth Brew Company,Vista, CA,111,1,2,2023
+112,Black Market Brewing Company,Temecula, CA,112,1,2,2023
+113,Vault Brewing Company,Yardley, PA,113,1,2,2023
+114,Jailbreak Brewing Company,Laurel, MD,114,1,2,2023
+115,Smartmouth Brewing Company,Norfolk, VA,115,1,2,2023
+116,Base Camp Brewing Co.,Portland, OR,116,1,2,2023
+117,Alameda Brewing,Portland, OR,117,1,2,2023
+118,Southern Star Brewing Company,Conroe, TX,118,1,2,2023
+119,Steamworks Brewing Company,Durango, CO,119,1,2,2023
+120,Horny Goat Brew Pub,Milwaukee, WI,120,1,2,2023
+121,Cheboygan Brewing Company,Cheboygan, MI,121,1,2,2023
+122,Center of the Universe Brewing C...,Ashland, VA,122,1,2,2023
+123,Ipswich Ale Brewery,Ipswich, MA,123,1,2,2023
+124,Griffin Claw Brewing Company,Birmingham, MI,124,1,2,2023
+125,Karbach Brewing Company,Houston, TX,125,1,2,2023
+126,Uncle Billy's Brewery and Smokeh...,Austin, TX,126,1,2,2023
+127,Deep Ellum Brewing Company,Dallas, TX,127,1,2,2023
+128,Real Ale Brewing Company,Blanco, TX,128,1,2,2023
+129,Straub Brewery,St Mary's, PA,129,1,2,2023
+130,Shebeen Brewing Company,Wolcott, CT,130,1,2,2023
+131,Stevens Point Brewery,Stevens Point, WI,131,1,2,2023
+132,Weston Brewing Company,Weston, MO,132,1,2,2023
+133,Southern Prohibition Brewing Com...,Hattiesburg, MS,133,1,2,2023
+134,Minhas Craft Brewery,Monroe, WI,134,1,2,2023
+135,Pug Ryan's Brewery,Dillon, CO,135,1,2,2023
+136,Hops & Grains Brewing Company,Austin, TX,136,1,2,2023
+137,Sietsema Orchards and Cider Mill,Ada, MI,137,1,2,2023
+138,Summit Brewing Company,St Paul, MN,138,1,2,2023
+139,Core Brewing & Distilling Company,Springdale, AR,139,1,2,2023
+140,Independence Brewing Company,Austin, TX,140,1,2,2023
+141,Cigar City Brewing Company,Tampa, FL,141,1,2,2023
+142,Third Street Brewhouse,Cold Spring, MN,142,1,2,2023
+143,Narragansett Brewing Company,Providence, RI,143,1,2,2023
+144,Grimm Brothers Brewhouse,Loveland, CO,144,1,2,2023
+145,Cisco Brewers,Nantucket, MA,145,1,2,2023
+146,Angry Minnow,Hayward, WI,146,1,2,2023
+147,Platform Beer Company,Cleveland, OH,147,1,2,2023
+148,Odyssey Beerwerks,Arvada, CO,148,1,2,2023
+149,Lonerider Brewing Company,Raleigh, NC,149,1,2,2023
+150,Oakshire Brewing,Eugene, OR,150,1,2,2023
+151,Fort Pitt Brewing Company,Latrobe, PA,151,1,2,2023
+152,Tin Roof Brewing Company,Baton Rouge, LA,152,1,2,2023
+153,Three Creeks Brewing,Sisters, OR,153,1,2,2023
+154,2 Towns Ciderhouse,Corvallis, OR,154,1,2,2023
+155,Caldera Brewing Company,Ashland, OR,155,1,2,2023
+156,Greenbrier Valley Brewing Company,Lewisburg, WV,156,1,2,2023
+157,Phoenix Ale Brewery,Phoenix, AZ,157,1,2,2023
+158,Lumberyard Brewing Company,Flagstaff, AZ,158,1,2,2023
+159,Uinta Brewing Company,Salt Lake City, UT,159,1,2,2023
+160,Four Peaks Brewing Company,Tempe, AZ,160,1,2,2023
+161,Martin House Brewing Company,Fort Worth, TX,161,1,2,2023
+162,Right Brain Brewery,Traverse City, MI,162,1,2,2023
+163,Sly Fox Brewing Company,Phoenixville, PA,163,1,2,2023
+164,Round Guys Brewing,Lansdale, PA,164,1,2,2023
+165,Great Crescent Brewery,Aurora, IN,165,1,2,2023
+166,Oskar Blues Brewery,Longmont, CO,166,1,2,2023
+167,Boxcar Brewing Company,West Chester, PA,167,1,2,2023
+168,High Hops Brewery,Windsor, CO,168,1,2,2023
+169,Crooked Fence Brewing Company,Garden City, ID,169,1,2,2023
+170,Everybody's Brewing,White Salmon, WA,170,1,2,2023
+171,Anderson Valley Brewing Company,Boonville, CA,171,1,2,2023
+172,Fiddlehead Brewing Company,Shelburne, VT,172,1,2,2023
+173,Evil Twin Brewing,Brooklyn, NY,173,1,2,2023
+174,New Orleans Lager & Ale Brewing ...,New Orleans, LA,174,1,2,2023
+175,Spiteful Brewing Company,Chicago, IL,175,1,2,2023
+176,Rahr & Sons Brewing Company,Fort Worth, TX,176,1,2,2023
+177,18th Street Brewery,Gary, IN,177,1,2,2023
+178,Cambridge Brewing Company,Cambridge, MA,178,1,2,2023
+179,Carolina Brewery,Pittsboro, NC,179,1,2,2023
+180,Frog Level Brewing Company,Waynesville, NC,180,1,2,2023
+181,Wild Wolf Brewing Company,Nellysford, VA,181,1,2,2023
+182,COOP Ale Works,Oklahoma City, OK,182,1,2,2023
+183,Seventh Son Brewing Company,Columbus, OH,183,1,2,2023
+184,Oasis Texas Brewing Company,Austin, TX,184,1,2,2023
+185,Vander Mill Ciders,Spring Lake, MI,185,1,2,2023
+186,St. Julian Winery,Paw Paw, MI,186,1,2,2023
+187,Pedernales Brewing Company,Fredericksburg, TX,187,1,2,2023
+188,Mother's Brewing,Springfield, MO,188,1,2,2023
+189,Modern Monks Brewery,Lincoln, NE,189,1,2,2023
+190,Two Beers Brewing Company,Seattle, WA,190,1,2,2023
+191,Snake River Brewing Company,Jackson, WY,191,1,2,2023
+192,Capital Brewery,Middleton, WI,192,1,2,2023
+193,Anthem Brewing Company,Oklahoma City, OK,193,1,2,2023
+194,Goodlife Brewing Co.,Bend, OR,194,1,2,2023
+195,Breakside Brewery,Portland, OR,195,1,2,2023
+196,Goose Island Brewery Company,Chicago, IL,196,1,2,2023
+197,Burnside Brewing Co.,Portland, OR,197,1,2,2023
+198,Hop Valley Brewing Company,Springfield, OR,198,1,2,2023
+199,Worthy Brewing Company,Bend, OR,199,1,2,2023
+200,Occidental Brewing Company,Portland, OR,200,1,2,2023
+201,Fearless Brewing Company,Estacada, OR,201,1,2,2023
+202,Upland Brewing Company,Bloomington, IN,202,1,2,2023
+203,Mehana Brewing Co.,Hilo, HI,203,1,2,2023
+204,Hawai'i Nui Brewing Co.,Hilo, HI,204,1,2,2023
+205,People's Brewing Company,Lafayette, IN,205,1,2,2023
+206,Fort George Brewery,Astoria, OR,206,1,2,2023
+207,Branchline Brewing Company,San Antonio, TX,207,1,2,2023
+208,Kalona Brewing Company,Kalona, IA,208,1,2,2023
+209,Modern Times Beer,San Diego, CA,209,1,2,2023
+210,Temperance Beer Company,Evanston, IL,210,1,2,2023
+211,Wisconsin Brewing Company,Verona, WI,211,1,2,2023
+212,Crow Peak Brewing Company,Spearfish, SD,212,1,2,2023
+213,Grapevine Craft Brewery,Farmers Branch, TX,213,1,2,2023
+214,Buffalo Bayou Brewing Company,Houston, TX,214,1,2,2023
+215,Texian Brewing Co.,Richmond, TX,215,1,2,2023
+216,Orpheus Brewing,Atlanta, GA,216,1,2,2023
+217,Forgotten Boardwalk,Cherry Hill, NJ,217,1,2,2023
+218,Laughing Dog Brewing Company,Ponderay, ID,218,1,2,2023
+219,Bozeman Brewing Company,Bozeman, MT,219,1,2,2023
+220,Big Choice Brewing,Broomfield, CO,220,1,2,2023
+221,Big Storm Brewing Company,Odessa, FL,221,1,2,2023
+222,Carton Brewing Company,Atlantic Highlands, NJ,222,1,2,2023
+223,Midnight Sun Brewing Company,Anchorage, AK,223,1,2,2023
+224,Fat Head's Brewery,Middleburg Heights, OH,224,1,2,2023
+225,Refuge Brewery,Temecula, CA,225,1,2,2023
+226,Chatham Brewing,Chatham, NY,226,1,2,2023
+227,DC Brau Brewing Company,Washington, DC,227,1,2,2023
+228,Geneva Lake Brewing Company,Lake Geneva, WI,228,1,2,2023
+229,Rochester Mills Brewing Company,Rochester, MI,229,1,2,2023
+230,Cape Ann Brewing Company,Gloucester, MA,230,1,2,2023
+231,Borderlands Brewing Company,Tucson, AZ,231,1,2,2023
+232,College Street Brewhouse and Pub,Lake Havasu City, AZ,232,1,2,2023
+233,Joseph James Brewing Company,Henderson, NV,233,1,2,2023
+234,Harpoon Brewery,Boston, MA,234,1,2,2023
+235,Back East Brewing Company,Bloomfield, CT,235,1,2,2023
+236,Champion Brewing Company,Charlottesville, VA,236,1,2,2023
+237,Devil's Backbone Brewing Company,Lexington, VA,237,1,2,2023
+238,Newburgh Brewing Company,Newburgh, NY,238,1,2,2023
+239,Wiseacre Brewing Company,Memphis, TN,239,1,2,2023
+240,Golden Road Brewing,Los Angeles, CA,240,1,2,2023
+241,New Republic Brewing Company,College Station, TX,241,1,2,2023
+242,Infamous Brewing Company,Austin, TX,242,1,2,2023
+243,Two Henrys Brewing Company,Plant City, FL,243,1,2,2023
+244,Lift Bridge Brewing Company,Stillwater, MN,244,1,2,2023
+245,Lucky Town Brewing Company,Jackson, MS,245,1,2,2023
+246,Quest Brewing Company,Greenville, SC,246,1,2,2023
+247,Creature Comforts,Athens, GA,247,1,2,2023
+248,Half Full Brewery,Stamford, CT,248,1,2,2023
+249,Southampton Publick House,Southampton, NY,249,1,2,2023
+250,Chapman's Brewing,Angola, IN,250,1,2,2023
+251,Barrio Brewing Company,Tucson, AZ,251,1,2,2023
+252,Santa Cruz Mountain Brewing,Santa Cruz, CA,252,1,2,2023
+253,Frankenmuth Brewery,Frankenmuth, MI,253,1,2,2023
+254,Meckley's Cidery,Somerset Center, MI,254,1,2,2023
+255,Stillwater Artisanal Ales,Baltimore, MD,255,1,2,2023
+256,Finch's Beer Company,Chicago, IL,256,1,2,2023
+257,South Austin Brewery,South Austin, TX,257,1,2,2023
+258,Bauhaus Brew Labs,Minneapolis, MN,258,1,2,2023
+259,Ozark Beer Company,Rogers, AR,259,1,2,2023
+260,Mountain Town Brewing Company ,Mount Pleasant, MI,260,1,2,2023
+261,Otter Creek Brewing,Waterbury, VT,261,1,2,2023
+262,The Brewer's Art,Baltimore, MD,262,1,2,2023
+263,Denver Beer Company,Denver, CO,263,1,2,2023
+264,Ska Brewing Company,Durango, CO,264,1,2,2023
+265,Tractor Brewing Company,Albuquerque, NM,265,1,2,2023
+266,Peak Organic Brewing Company,Portland, ME,266,1,2,2023
+267,Cape Cod Beer,Hyannis, MA,267,1,2,2023
+268,Long Trail Brewing Company,Bridgewater Corners, VT,268,1,2,2023
+269,Great Raft Brewing Company,Shreveport, LA,269,1,2,2023
+270,Alaskan Brewing Company,Juneau, AK,270,1,2,2023
+271,Notch Brewing Company,Ipswich, MA,271,1,2,2023
+272,The Alchemist,Waterbury, VT,272,1,2,2023
+273,Three Notch'd Brewing Company,Charlottesville, VA,273,1,2,2023
+274,Portside Brewery,Cleveland, OH,274,1,2,2023
+275,Otter Creek Brewing,Middlebury, VT,275,1,2,2023
+276,Montauk Brewing Company,Montauk, NY,276,1,2,2023
+277,Indeed Brewing Company,Minneapolis, MN,277,1,2,2023
+278,Berkshire Brewing Company,South Deerfield, MA,278,1,2,2023
+279,Foolproof Brewing Company,Pawtucket, RI,279,1,2,2023
+280,Headlands Brewing Company,Mill Valley, CA,280,1,2,2023
+281,Bolero Snort Brewery,Ridgefield Park, NJ,281,1,2,2023
+282,Thunderhead Brewing Company,Kearney, NE,282,1,2,2023
+283,Defiance Brewing Company,Hays, KS,283,1,2,2023
+284,Milwaukee Brewing Company,Milwaukee, WI,284,1,2,2023
+285,Catawba Island Brewing,Port Clinton, OH,285,1,2,2023
+286,Back Forty Beer Company,Gadsden, AL,286,1,2,2023
+287,Four Corners Brewing Company,Dallas, TX,287,1,2,2023
+288,Saint Archer Brewery,San Diego, CA,288,1,2,2023
+289,Rogue Ales,Newport, OR,289,1,2,2023
+290,Hale's Ales,Seattle, WA,290,1,2,2023
+291,Tommyknocker Brewery,Idaho Springs, CO,291,1,2,2023
+292,Baxter Brewing Company,Lewiston, ME,292,1,2,2023
+293,Northampton Brewery,Northamtpon, MA,293,1,2,2023
+294,Black Shirt Brewing Company,Denver, CO,294,1,2,2023
+295,Wachusett Brewing Company,Westminster, MA,295,1,2,2023
+296,Widmer Brothers Brewing Company,Portland, OR,296,1,2,2023
+297,Hop Farm Brewing Company,Pittsburgh, PA,297,1,2,2023
+298,Liquid Hero Brewery,York, PA,298,1,2,2023
+299,Matt Brewing Company,Utica, NY,299,1,2,2023
+300,Boston Beer Company,Boston, MA,300,1,2,2023
+301,Old Forge Brewing Company,Danville, PA,301,1,2,2023
+302,Utah Brewers Cooperative,Salt Lake City, UT,302,1,2,2023
+303,Magic Hat Brewing Company,South Burlington, VT,303,1,2,2023
+304,Blue Hills Brewery,Canton, MA,304,1,2,2023
+305,Night Shift Brewing,Everett, MA,305,1,2,2023
+306,Beach Brewing Company,Virginia Beach, VA,306,1,2,2023
+307,Payette Brewing Company,Garden City, ID,307,1,2,2023
+308,Brew Bus Brewing,Tampa, FL,308,1,2,2023
+309,Sockeye Brewing Company,Boise, ID,309,1,2,2023
+310,Pine Street Brewery,San Francisco, CA,310,1,2,2023
+311,Dirty Bucket Brewing Company,Woodinville, WA,311,1,2,2023
+312,Jackalope Brewing Company,Nashville, TN,312,1,2,2023
+313,Slanted Rock Brewing Company,Meridian, ID,313,1,2,2023
+314,Piney River Brewing Company,Bucryus, MO,314,1,2,2023
+315,Cutters Brewing Company,Avon, IN,315,1,2,2023
+316,Iron Hill Brewery & Restaurant,Wilmington, DE,316,1,2,2023
+317,Marshall Wharf Brewing Company,Belfast, ME,317,1,2,2023
+318,Banner Beer Company,Williamsburg, MA,318,1,2,2023
+319,Dick's Brewing Company,Centralia, WA,319,1,2,2023
+320,Claremont Craft Ales,Claremont, CA,320,1,2,2023
+321,Rivertown Brewing Company,Lockland, OH,321,1,2,2023
+322,Voodoo Brewery,Meadville, PA,322,1,2,2023
+323,D.L. Geary Brewing Company,Portland, ME,323,1,2,2023
+324,Pisgah Brewing Company,Black Mountain, NC,324,1,2,2023
+325,Neshaminy Creek Brewing Company,Croydon, PA,325,1,2,2023
+326,Morgan Street Brewery,Saint Louis, MO,326,1,2,2023
+327,Half Acre Beer Company,Chicago, IL,327,1,2,2023
+328,The Just Beer Project,Burlington, VT,328,1,2,2023
+329,The Bronx Brewery,Bronx, NY,329,1,2,2023
+330,Dead Armadillo Craft Brewing,Tulsa, OK,330,1,2,2023
+331,Catawba Brewing Company,Morganton, NC,331,1,2,2023
+332,La Cumbre Brewing Company,Albuquerque, NM,332,1,2,2023
+333,David's Ale Works,Diamond Springs, CA,333,1,2,2023
+334,The Traveler Beer Company,Burlington, VT,334,1,2,2023
+335,Fargo Brewing Company,Fargo, ND,335,1,2,2023
+336,Big Sky Brewing Company,Missoula, MT,336,1,2,2023
+337,Nebraska Brewing Company,Papillion, NE,337,1,2,2023
+338,Uncle John's Fruit House Winery,St. John's, MI,338,1,2,2023
+339,Wormtown Brewery,Worcester, MA,339,1,2,2023
+340,Due South Brewing Company,Boynton Beach, FL,340,1,2,2023
+341,Palisade Brewing Company,Palisade, CO,341,1,2,2023
+342,KelSo Beer Company,Brooklyn, NY,342,1,2,2023
+343,Hardywood Park Craft Brewery,Richmond, VA,343,1,2,2023
+344,Wolf Hills Brewing Company,Abingdon, VA,344,1,2,2023
+345,Lavery Brewing Company,Erie, PA,345,1,2,2023
+346,Manzanita Brewing Company,Santee, CA,346,1,2,2023
+347,Fullsteam Brewery,Durham, NC,347,1,2,2023
+348,Four Horsemen Brewing Company,South Bend, IN,348,1,2,2023
+349,Hinterland Brewery,Green Bay, WI,349,1,2,2023
+350,Central Coast Brewing Company,San Luis Obispo, CA,350,1,2,2023
+351,Westfield River Brewing Company,Westfield, MA,351,1,2,2023
+352,Elevator Brewing Company,Columbus, OH,352,1,2,2023
+353,Aslan Brewing Company,Bellingham, WA,353,1,2,2023
+354,Kulshan Brewery,Bellingham, WA,354,1,2,2023
+355,Pikes Peak Brewing Company,Monument, CO,355,1,2,2023
+356,Manayunk Brewing Company,Philadelphia, PA,356,1,2,2023
+357,Buckeye Brewing,Cleveland, OH,357,1,2,2023
+358,Daredevil Brewing Company,Shelbyville, IN,358,1,2,2023
+359,NoDa Brewing Company,Charlotte, NC,359,1,2,2023
+360,Aviator Brewing Company,Fuquay-Varina, NC,360,1,2,2023
+361,Wild Onion Brewing Company,Lake Barrington, IL,361,1,2,2023
+362,Hilliard's Beer,Seattle, WA,362,1,2,2023
+363,Mikkeller,Pottstown, PA,363,1,2,2023
+364,Bohemian Brewery,Midvale, UT,364,1,2,2023
+365,Great River Brewery,Davenport, IA,365,1,2,2023
+366,Mustang Brewing Company,Mustang, OK,366,1,2,2023
+367,Airways Brewing Company,Kent, WA,367,1,2,2023
+368,21st Amendment Brewery,San Francisco, CA,368,1,2,2023
+369,Eddyline Brewery & Restaurant,Buena Vista, CO,369,1,2,2023
+370,Pizza Port Brewing Company,Carlsbad, CA,370,1,2,2023
+371,Sly Fox Brewing Company,Pottstown, PA,371,1,2,2023
+372,Spring House Brewing Company,Conestoga, PA,372,1,2,2023
+373,7venth Sun,Dunedin, FL,373,1,2,2023
+374,Astoria Brewing Company,Astoria, OR,374,1,2,2023
+375,Maui Brewing Company,Lahaina, HI,375,1,2,2023
+376,RoughTail Brewing Company,Midwest City, OK,376,1,2,2023
+377,Lucette Brewing Company,Menominee, WI,377,1,2,2023
+378,Bold City Brewery,Jacksonville, FL,378,1,2,2023
+379,Grey Sail Brewing of Rhode Island,Westerly, RI,379,1,2,2023
+380,Blue Blood Brewing Company,Lincoln, NE,380,1,2,2023
+381,Swashbuckler Brewing Company,Manheim, PA,381,1,2,2023
+382,Blue Mountain Brewery,Afton, VA,382,1,2,2023
+383,Starr Hill Brewery,Crozet, VA,383,1,2,2023
+384,Westbrook Brewing Company,Mt. Pleasant, SC,384,1,2,2023
+385,Shipyard Brewing Company,Portland, ME,385,1,2,2023
+386,Revolution Brewing,Paonia, CO,386,1,2,2023
+387,Natian Brewery,Portland, OR,387,1,2,2023
+388,Alltech's Lexington Brewing Company,Lexington, KY,388,1,2,2023
+389,Oskar Blues Brewery (North Carol...,Brevard, NC,389,1,2,2023
+390,Orlison Brewing Company,Airway Heights, WA,390,1,2,2023
+391,Breckenridge Brewery,Denver, CO,391,1,2,2023
+392,Santa Fe Brewing Company,Santa Fe, NM,392,1,2,2023
+393,Miami Brewing Company,Miami, FL,393,1,2,2023
+394,Schilling & Company,Seattle, WA,394,1,2,2023
+395,Hops & Grain Brewery,Austin, TX,395,1,2,2023
+396,White Flame Brewing Company,Hudsonville, MI,396,1,2,2023
+397,Ruhstaller Beer Company,Sacramento, CA,397,1,2,2023
+398,Saugatuck Brewing Company,Douglas, MI,398,1,2,2023
+399,Moab Brewery,Moab, UT,399,1,2,2023
+400,Macon Beer Company,Macon, GA,400,1,2,2023
+401,Amnesia Brewing Company,Washougal, WA,401,1,2,2023
+402,Wolverine State Brewing Company,Ann Arbor, MI,402,1,2,2023
+403,Red Tank Cider Company,Bend, OR,403,1,2,2023
+404,Cascadia Ciderworks United,Portland, OR,404,1,2,2023
+405,Fate Brewing Company,Boulder, CO,405,1,2,2023
+406,Lazy Monk Brewing,Eau Claire, WI,406,1,2,2023
+407,Bitter Root Brewing,Hamilton, MT,407,1,2,2023
+408,10 Barrel Brewing Company,Bend, OR,408,1,2,2023
+409,Tamarack Brewing Company,Lakeside, MT,409,1,2,2023
+410,New England Brewing Company,Woodbridge, CT,410,1,2,2023
+411,Seattle Cider Company,Seattle, WA,411,1,2,2023
+412,Straight to Ale,Huntsville, AL,412,1,2,2023
+413,Austin Beerworks,Austin, TX,413,1,2,2023
+414,Blue Mountain Brewery,Arrington, VA,414,1,2,2023
+415,Coastal Empire Beer Company,Savannah, GA,415,1,2,2023
+416,Jack's Hard Cider (Hauser Estate...,Biglerville, PA,416,1,2,2023
+417,Boulder Beer Company,Boulder, CO,417,1,2,2023
+418,Coalition Brewing Company,Portland, OR,418,1,2,2023
+419,Sanitas Brewing Company,Boulder, CO,419,1,2,2023
+420,Gore Range Brewery,Edwards, CO,420,1,2,2023
+421,Redstone Meadery,Boulder, CO,421,1,2,2023
+422,Blue Dog Mead,Eugene, OR,422,1,2,2023
+423,Hess Brewing Company,San Diego, CA,423,1,2,2023
+424,Wynkoop Brewing Company,Denver, CO,424,1,2,2023
+425,Ciderboys,Stevens Point, WI,425,1,2,2023
+426,Armadillo Ale Works,Denton, TX,426,1,2,2023
+427,Roanoke Railhouse Brewery,Roanoke, VA,427,1,2,2023
+428,Schlafly Brewing Company,Saint Louis, MO,428,1,2,2023
+429,Asher Brewing Company,Boulder, CO,429,1,2,2023
+430,Lost Rhino Brewing Company,Ashburn, VA,430,1,2,2023
+431,North Country Brewing Company,Slippery Rock, PA,431,1,2,2023
+432,Seabright Brewery,Santa Cruz, CA,432,1,2,2023
+433,French Broad Brewery,Asheville, NC,433,1,2,2023
+434,Angry Orchard Cider Company,Cincinnati, OH,434,1,2,2023
+435,Two Roads Brewing Company,Stratford, CT,435,1,2,2023
+436,Southern Oregon Brewing Company,Medford, OR,436,1,2,2023
+437,Brooklyn Brewery,Brooklyn, NY,437,1,2,2023
+438,The Right Brain Brewery,Traverse City, MI,438,1,2,2023
+439,Kona Brewing Company,Kona, HI,439,1,2,2023
+440,MillKing It Productions,Royal Oak, MI,440,1,2,2023
+441,Pateros Creek Brewing Company,Fort Collins, CO,441,1,2,2023
+442,O'Fallon Brewery,O'Fallon, MO,442,1,2,2023
+443,Marble Brewery,Albuquerque, NM,443,1,2,2023
+444,Big Wood Brewery,Vadnais Heights, MN,444,1,2,2023
+445,Howard Brewing Company,Lenoir, NC,445,1,2,2023
+446,Downeast Cider House,Leominster, MA,446,1,2,2023
+447,Swamp Head Brewery,Gainesville, FL,447,1,2,2023
+448,Mavericks Beer Company,Half Moon Bay, CA,448,1,2,2023
+449,TailGate Beer,San Diego, CA,449,1,2,2023
+450,Northwest Brewing Company,Pacific, WA,450,1,2,2023
+451,Dad & Dude's Breweria,Aurora, CO,451,1,2,2023
+452,Centennial Beer Company,Edwards, CO,452,1,2,2023
+453,Denali Brewing Company,Talkeetna, AK,453,1,2,2023
+454,Deschutes Brewery,Bend, OR,454,1,2,2023
+455,Sunken City Brewing Company,Hardy, VA,455,1,2,2023
+456,Lucette Brewing Company,Menominie, WI,456,1,2,2023
+457,The Black Tooth Brewing Company,Sheridan, WY,457,1,2,2023
+458,Kenai River Brewing Company,Soldotna, AK,458,1,2,2023
+459,River North Brewery,Denver, CO,459,1,2,2023
+460,Fremont Brewing Company,Seattle, WA,460,1,2,2023
+461,Armstrong Brewing Company,South San Francisco, CA,461,1,2,2023
+462,AC Golden Brewing Company,Golden, CO,462,1,2,2023
+463,Big Bend Brewing Company,Alpine, TX,463,1,2,2023
+464,Good Life Brewing Company,Bend, OR,464,1,2,2023
+465,Engine 15 Brewing,Jacksonville Beach, FL,465,1,2,2023
+466,Green Room Brewing,Jacksonville, FL,466,1,2,2023
+467,Brindle Dog Brewing Company,Tampa Bay, FL,467,1,2,2023
+468,Peace Tree Brewing Company,Knoxville, IA,468,1,2,2023
+469,Terrapin Brewing Company,Athens, GA,469,1,2,2023
+470,Pete's Brewing Company,San Antonio, TX,470,1,2,2023
+471,Okoboji Brewing Company,Spirit Lake, IA,471,1,2,2023
+472,Crystal Springs Brewing Company,Boulder, CO,472,1,2,2023
+473,Engine House 9,Tacoma, WA,473,1,2,2023
+474,Tonka Beer Company,Minnetonka, MN,474,1,2,2023
+475,Red Hare Brewing Company,Marietta, GA,475,1,2,2023
+476,Hangar 24 Craft Brewery,Redlands, CA,476,1,2,2023
+477,Big Elm Brewing,Sheffield, MA,477,1,2,2023
+478,Good People Brewing Company,Birmingham, AL,478,1,2,2023
+479,Heavy Seas Beer,Halethorpe, MD,479,1,2,2023
+480,Telluride Brewing Company,Telluride, CO,480,1,2,2023
+481,7 Seas Brewing Company,Gig Harbor, WA,481,1,2,2023
+482,Confluence Brewing Company,Des Moines, IA,482,1,2,2023
+483,Bale Breaker Brewing Company,Yakima, WA,483,1,2,2023
+484,The Manhattan Brewing Company,New York, NY,484,1,2,2023
+485,MacTarnahans Brewing Company,Portland, OR,485,1,2,2023
+486,Stillmank Beer Company,Green Bay, WI,486,1,2,2023
+487,Redhook Brewery,Woodinville, WA,487,1,2,2023
+488,Dock Street Brewery,Philadelphia, PA,488,1,2,2023
+489,Blue Point Brewing Company,Patchogue, NY,489,1,2,2023
+490,Tampa Bay Brewing Company,Tampa, FL,490,1,2,2023
+491,Devil's Canyon Brewery,Belmont, CA,491,1,2,2023
+492,Stone Coast Brewing Company,Portland, ME,492,1,2,2023
+493,Broken Tooth Brewing Company,Anchorage, AK,493,1,2,2023
+494,Seven Brides Brewery,Silverton, OR,494,1,2,2023
+495,Newburyport Brewing Company,Newburyport, MA,495,1,2,2023
+496,Dry Dock Brewing Company,Aurora, CO,496,1,2,2023
+497,Cans Bar and Canteen,Charlotte, NC,497,1,2,2023
+498,Sprecher Brewing Company,Glendale, WI,498,1,2,2023
+499,Wildwood Brewing Company,Stevensville, MT,499,1,2,2023
+500,High Noon Saloon And Brewery,Leavenworth, KS,500,1,2,2023
+501,Woodchuck Hard Cider,Middlebury, VT,501,1,2,2023
+502,Sea Dog Brewing Company,Portland, ME,502,1,2,2023
+503,Oskar Blues Brewery,Lyons, CO,503,1,2,2023
+504,Carolina Beer & Beverage,Mooresville, NC,504,1,2,2023
+505,Krebs Brewing Company (Pete's Pl...,Krebs, OK,505,1,2,2023
+506,Warbird Brewing Company,Fort Wayne, IN,506,1,2,2023
+507,Mudshark Brewing Company,Lake Havasu City, AZ,507,1,2,2023
+508,Spilker Ales,Cortland, NE,508,1,2,2023
+509,Wingman Brewers,Tacoma, WA,509,1,2,2023
+510,Kettle House Brewing Company,Missoula, MT,510,1,2,2023
+511,Sherwood Forest Brewers,Marlborough, MA,511,1,2,2023
+512,Cottrell Brewing,Pawcatuck, CT,512,1,2,2023
+513,Arctic Craft Brewery,Colorado Springs, CO,513,1,2,2023
+514,Monkey Paw Pub & Brewery,San Diego, CA,514,1,2,2023
+515,Crabtree Brewing Company,Greeley, CO,515,1,2,2023
+516,Emerald City Beer Company,Seattle, WA,516,1,2,2023
+517,Butcher's Brewing,Carlsbad, CA,517,1,2,2023
+518,New South Brewing Company,Myrtle Beach, SC,518,1,2,2023
+519,Big River Brewing Company,Chattanooga, TN,519,1,2,2023
+520,Twisted Pine Brewing Company,Boulder, CO,520,1,2,2023
+521,Flying Dog Brewery,Frederick, MD,521,1,2,2023
+522,Uncommon Brewers,Santa Cruz, CA,522,1,2,2023
+523,Aspen Brewing Company,Aspen, CO,523,1,2,2023
+524,Triangle Brewing Company,Durham, NC,524,1,2,2023
+525,Bomb Beer Company,New York, NY,525,1,2,2023
+526,Churchkey Can Company,Seattle, WA,526,1,2,2023
+527,Intuition Ale Works,Jacksonville, FL,527,1,2,2023
+528,Asheville Brewing Company,Asheville, NC,528,1,2,2023
+529,Northwoods Brewpub,Eau Claire, WI,529,1,2,2023
+530,Buckbean Brewing Company,Reno, NV,530,1,2,2023
+531,Dolores River Brewery,Dolores, CO,531,1,2,2023
+532,Flat Rock Brewing Company,Smithton, PA,532,1,2,2023
+533,Abita Brewing Company,Abita Springs, LA,533,1,2,2023
+534,Mammoth Brewing Company,Mammoth Lakes, CA,534,1,2,2023
+535,Harvest Moon Brewing Company,Belt, MT,535,1,2,2023
+536,Grand Canyon Brewing Company,Williams, AZ,536,1,2,2023
+537,Lewis and Clark Brewing Company,Helena, MT,537,1,2,2023
+538,Dundee Brewing Company,Rochester, NY,538,1,2,2023
+539,Twin Lakes Brewing Company,Greenville, DE,539,1,2,2023
+540,Mother Earth Brewing Company,Kinston, NC,540,1,2,2023
+541,Arcadia Brewing Company,Battle Creek, MI,541,1,2,2023
+542,Angry Minnow Brewing Company,Hayward, WI,542,1,2,2023
+543,Great Northern Brewing Company,Whitefish, MT,543,1,2,2023
+544,Pyramid Breweries,Seattle, WA,544,1,2,2023
+545,Lancaster Brewing Company,Lancaster, PA,545,1,2,2023
+546,Upstate Brewing Company,Elmira, NY,546,1,2,2023
+547,Moat Mountain Smoke House & Brew...,North Conway, NH,547,1,2,2023
+548,Prescott Brewing Company,Prescott, AZ,548,1,2,2023
+549,Mogollon Brewing Company,Flagstaff, AZ,549,1,2,2023
+550,Wind River Brewing Company,Pinedale, WY,550,1,2,2023
+551,Silverton Brewery,Silverton, CO,551,1,2,2023
+552,Mickey Finn's Brewery,Libertyville, IL,552,1,2,2023
+553,Covington Brewhouse,Covington, LA,553,1,2,2023
+554,Dave's Brewfarm,Wilson, WI,554,1,2,2023
+555,Ukiah Brewing Company,Ukiah, CA,555,1,2,2023
+556,Butternuts Beer and Ale,Garrattsville, NY,556,1,2,2023
+557,Sleeping Lady Brewing Company,Anchorage, AK,557,1,2,2023
